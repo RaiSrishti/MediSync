@@ -12,3 +12,4 @@
 // final documentation, readme updates and project submission preparation 7 may
 // testing debugging performance optimization and final ui fixes 7 may
 // testing debugging performance optimization and final ui fixes 7 may
+// initialized project structure with frontend and backend setup 26 april
