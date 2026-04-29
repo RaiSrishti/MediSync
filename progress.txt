@@ -15,3 +15,4 @@
 // initialized project structure with frontend and backend setup 26 april
 // backend setup with express server and initial routes 27 april
 // database connection using mysql and knex setup 28 april
+// authentication system with jwt and bcrypt implemented 29 april
