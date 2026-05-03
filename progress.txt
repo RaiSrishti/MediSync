@@ -19,3 +19,4 @@
 // patient management apis with crud operations 30 april
 // frontend initialized with vite react setup 1 may
 // ui components designed with tailwind and auth pages added 2 may
+// major frontend modules and dashboards implemented 3 may
