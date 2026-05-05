@@ -21,3 +21,4 @@
 // ui components designed with tailwind and auth pages added 2 may
 // major frontend modules and dashboards implemented 3 may
 // integrated patient frontend with backend apis 4 may
+// pharmacy and inventory module implemented 5 may
