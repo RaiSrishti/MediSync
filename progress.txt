@@ -22,3 +22,4 @@
 // major frontend modules and dashboards implemented 3 may
 // integrated patient frontend with backend apis 4 may
 // pharmacy and inventory module implemented 5 may
+// operation theatre module and scheduling implemented 6 may
