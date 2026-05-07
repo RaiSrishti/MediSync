@@ -1,0 +1,15 @@
+# === Backend ignores ===
+backend/node_modules/
+backend/.env
+backend/dist/
+backend/.cache/
+
+# === Frontend ignores ===
+frontend/node_modules/
+frontend/.env
+frontend/build/
+frontend/.cache/
+
+# === General ignores ===
+.DS_Store
+.env
